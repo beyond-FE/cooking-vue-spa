@@ -1,5 +1,3 @@
-const apis = {
-  // getList:"/home/shopList"  接口列表
-}
+import * as api from './api';
 
-export default apis;
+export default api;
