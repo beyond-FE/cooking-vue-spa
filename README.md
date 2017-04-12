@@ -1,4 +1,4 @@
-# wechat-mall
+# VUe SPA Build Tool
 > A vue project.
 
 ## Development
@@ -25,7 +25,7 @@ src-pages  //放置页面组件
 
 compoents // 公用组件
 
-api // 请求路径
+api // 请求接口
 
 routes //路由
 
