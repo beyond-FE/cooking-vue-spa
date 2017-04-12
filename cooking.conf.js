@@ -34,7 +34,7 @@ cooking.set({
     'components':path.join(__dirname,'src/components'),
     'style':path.join(__dirname,'src/assets/less'),
   },
-  extends: ['vue2','less', 'autoprefixer']
+  extends: ['vue2','lint','less', 'autoprefixer']
 });
 
 cooking.add('loader.vue',{
