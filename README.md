@@ -1,4 +1,4 @@
-# VUe SPA Build Tool
+# VUE SPA Build Tool
 > A vue project.
 
 ## Development
