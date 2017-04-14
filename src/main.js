@@ -13,5 +13,7 @@ Vue.use(Mint);
 new Vue({ // eslint-disable-line
   el: '#app',
   router,
-  render: h => h(App)
+  render: h => {
+    return h(App);
+  }
 });
